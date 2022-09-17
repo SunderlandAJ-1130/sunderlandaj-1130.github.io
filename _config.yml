@@ -80,23 +80,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jie Zeng (SunderlandAJ)"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Changsha, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=F68NbdIAAAAJ&hl=zh-CN"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com.hk/citations?user=F68NbdIAAAAJ"
+  email            : "zj991130@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Jie-Zeng-13"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/SunderlandAJ-1130"
   google_plus      :
   keybase          :
   instagram        :
