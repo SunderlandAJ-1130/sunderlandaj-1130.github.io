@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Zeng / SunderlandAJ"
+title                    : "Jie Zeng / Master's student"
 title_separator          : "-"
 name                     : &name "Jie Zeng"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jie Zeng (SunderlandAJ)"
-  avatar           : "profile.png"
+  avatar           : "头像.jpg"
   bio              : "Master's candidate in CSU (2021.09-)"
   location         : "Changsha, China"
   employer         :
