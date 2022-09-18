@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Spatiotemporal gated graph attention network for urban traffic flow prediction based on license plate recognition data"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/tang2022spatiotemporal
+excerpt: 'The accurate forecasting of traffic states is an essential application of intelligent transportation system. Due to the periodic signal control at intersections, the traffic flow in an urban road network is often disturbed and expresses intermittent features. This study proposes a forecasting framework named the spatiotemporal gated graph attention network (STGGAT) model to achieve accurate predictions for network-scale traffic flows on urban roads. Based on license plate recognition (LPR) records, the average travel times and volume transition relationships are estimated to construct weighted directed graphs. The proposed STGGAT model integrates a gated recurrent unit layer, a graph attention network layer with edge features, a gated mechanism based on the bidirectional long short-term memory and a residual structure to extract the spatiotemporal dependencies of the approach- and lane-level traffic volumes. Validated on the LPR system in Changsha, China, STGGAT demonstrates superior accuracy and stability to those of the baselines and reveals its inductive learning and fault tolerance capabilities.'
+date: 2021-06-18
+venue: 'Computer‐Aided Civil and Infrastructure Engineering'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12688'
+citation: 'Tang, J., & **Zeng, J.** (2022). Spatiotemporal gated graph attention network for urban traffic flow prediction based on license plate recognition data. Computer‐Aided Civil and Infrastructure Engineering, 37(1), 3-23.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The accurate forecasting of traffic states is an essential application of intelligent transportation system. Due to the periodic signal control at intersections, the traffic flow in an urban road network is often disturbed and expresses intermittent features. This study proposes a forecasting framework named the spatiotemporal gated graph attention network (STGGAT) model to achieve accurate predictions for network-scale traffic flows on urban roads. Based on license plate recognition (LPR) records, the average travel times and volume transition relationships are estimated to construct weighted directed graphs. The proposed STGGAT model integrates a gated recurrent unit layer, a graph attention network layer with edge features, a gated mechanism based on the bidirectional long short-term memory and a residual structure to extract the spatiotemporal dependencies of the approach- and lane-level traffic volumes. Validated on the LPR system in Changsha, China, STGGAT demonstrates superior accuracy and stability to those of the baselines and reveals its inductive learning and fault tolerance capabilities.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://SunderlandAJ-1130.github.io/files/tang2022spatiotemporal.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Tang, J., & **Zeng, J.** (2022). Spatiotemporal gated graph attention network for urban traffic flow prediction based on license plate recognition data. Computer‐Aided Civil and Infrastructure Engineering, 37(1), 3-23.
