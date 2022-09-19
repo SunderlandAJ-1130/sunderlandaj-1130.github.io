@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Traffic and Transportation, Central south University (2017.09-2021.06)
+* Visiting Student in Business School, The Chinese University of Hong Kong (2019.07)
 * M.S. in Traffic and Transportation Engineering, Central South University (2021.09-)
   
 Skills
@@ -23,18 +24,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
