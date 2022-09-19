@@ -13,13 +13,6 @@ Education
 ======
 * B.S. in Traffic and Transportation, Central south University (2017.09-2021.06)
 * M.S. in Traffic and Transportation Engineering, Central South University (2021.09-)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -45,6 +38,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+Reviewer of Journal of Advanced Transportation, Plos ONE, CICTP. 
