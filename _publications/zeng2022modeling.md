@@ -12,4 +12,4 @@ Emerging applications in real-time traffic management put forward urgent require
 
 [Download paper here](http://SunderlandAJ-1130.github.io/files/zeng2022modeling.pdf)
 
-Recommended citation: **Zeng, J.**, & Tang, J. (2022). Modeling Dynamic Traffic Flow as Visibility Graphs: A Network-Scale Prediction Framework for Lane-Level Traffic Flow Based on LPR Data. IEEE Transactions on Intelligent Transportation Systems, 1–16.
+Recommended citation: Zeng, J., & Tang, J. (2022). Modeling Dynamic Traffic Flow as Visibility Graphs: A Network-Scale Prediction Framework for Lane-Level Traffic Flow Based on LPR Data. IEEE Transactions on Intelligent Transportation Systems, 1–16.
