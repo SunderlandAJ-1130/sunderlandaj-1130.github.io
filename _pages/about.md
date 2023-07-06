@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the School of Traffic and Transportation Engineering at Central South University advised by Associate Prof. Jinjun Tang. I received my Master degree in Central South University in 2021. 
+I am a Master's student in the School of Traffic and Transportation Engineering at Central South University, advised by Prof. Jinjun Tang. I received my Master's degree in Central South University in 2021. 
 
-# Research Interst
+# Research Interest
 * Deep learning applications in transportation systems
 * Spatiotemporal data mining and prediction
 * Traffic accident detection and prediction
