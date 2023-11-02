@@ -32,4 +32,4 @@ Publications
 Academic Services
 =================
 
-Reviewer of Cities, ACM Computing Survey, Journal of Advanced Transportation, Plos ONE, CICTP.
+Reviewer of Cities, ACM Computing Survey, Journal of Advanced Transportation, Plos ONE.
