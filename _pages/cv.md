@@ -34,3 +34,13 @@ Academic Services
 =================
 
 Reviewer of Cities, ACM Computing Survey, Journal of Advanced Transportation, Plos ONE.
+
+# Awards
+
+- Mao Yisheng Science and Technology Award - Rising Star in Railway Education
+- National Scholarship for Graduate Excellence
+- National Scholarship for Undergraduate Excellence
+- Outstanding Graduate of Hunan Province
+- Student of the Year Nomination Award (Top 20 over 50,000 students at CSU)
+- Outstanding student cadres of high schools of Sichuan Province
+- Principle's Innovation Scholarship of Central South University
