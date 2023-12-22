@@ -12,4 +12,4 @@ With the rapid development of intelligent operation and management in metro syst
 
 [Download paper here](http://SunderlandAJ-1130.github.io/files/zeng2022combining.pdf)
 
-Recommended citation: **Zeng, J.**, Tang, J., 2022. Combining knowledge graph into metro passenger flow prediction: a split-attention relational graph convolutional network. Expert Syst. Appl. 118790. doi:10.1016/j.eswa.2022.118790. 
+Recommended citation: Zeng, J., Tang, J., 2022. Combining knowledge graph into metro passenger flow prediction: a split-attention relational graph convolutional network. Expert Syst. Appl. 118790. doi:10.1016/j.eswa.2022.118790.

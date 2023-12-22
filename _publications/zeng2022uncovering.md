@@ -12,4 +12,4 @@ Understanding the spatiotemporal characteristics of traffic congestion is the co
 
 [Download paper here](http://SunderlandAJ-1130.github.io/files/zeng2022uncovering.pdf)
 
-Recommended citation: **Zeng, J.**, Xiong, Y., Liu, F., Ye, J., & Tang, J. (2022). Uncovering the spatiotemporal patterns of traffic congestion from large-scale trajectory data: A complex network approach. Physica A: Statistical Mechanics and its Applications, 604, 127871. 
+Recommended citation: Zeng, J., Xiong, Y., Liu, F., Ye, J., & Tang, J. (2022). Uncovering the spatiotemporal patterns of traffic congestion from large-scale trajectory data: A complex network approach. Physica A: Statistical Mechanics and its Applications, 604, 127871.

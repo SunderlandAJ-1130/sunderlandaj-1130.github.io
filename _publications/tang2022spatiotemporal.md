@@ -12,4 +12,4 @@ The accurate forecasting of traffic states is an essential application of intell
 
 [Download paper here](http://SunderlandAJ-1130.github.io/files/tang2022spatiotemporal.pdf)
 
-Recommended citation: Tang, J., & **Zeng, J.** (2022). Spatiotemporal gated graph attention network for urban traffic flow prediction based on license plate recognition data. Computer‐Aided Civil and Infrastructure Engineering, 37(1), 3-23.
+Recommended citation: Tang, J., & Zeng, J. (2022). Spatiotemporal gated graph attention network for urban traffic flow prediction based on license plate recognition data. Computer‐Aided Civil and Infrastructure Engineering, 37(1), 3-23.
