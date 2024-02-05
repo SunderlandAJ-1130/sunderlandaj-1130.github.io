@@ -30,8 +30,8 @@ Reviewer of Cities, ACM Computing Survey, Complex & Intelligent Systems, Journal
 
 # Awards
 
-- Mao Yisheng Science and Technology Award - Rising Star in Railway Education
-- First Prize for Excellent Academic Paper in Natural Sciences in Hunan Province
+- Mao Yisheng Science and Technology Award - Rising Star in Railway Education 茅以升科学技术奖——铁道教育希望之星奖 (全国每年27人)
+- First Prize for Excellent Academic Paper in Natural Sciences in Hunan Province 湖南省首届自然科学优秀学术论文一等奖
 - National Scholarship for Graduate Excellence
 - National Scholarship for Undergraduate Excellence
 - Outstanding Graduate of Hunan Province
