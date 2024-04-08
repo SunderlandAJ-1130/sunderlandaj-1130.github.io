@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jie Zeng, and I am currently a Master’s student of Transportation Engineering at Central South University in China, advised by Prof. Jinjun Tang, where I also received my Bachelor's degree in 2021. During my study at CSU, I ranked 1/29 of my undergraduate class and won a list of awesome awards, including National Scholarship, Mao Yisheng Science and Technology Award, etc. From 08/01/2023 to 12/31/2023, I was a visiting student at the Hong Kong University of Science and Technology.
+My name is Jie Zeng, and I am currently a third-year Master’s student of Transportation Engineering at Central South University in China, advised by Prof. Jinjun Tang, where I also received my Bachelor's degree in 2021. During my study at CSU, I ranked 1/29 of my undergraduate class and won a list of awesome awards, including National Scholarship, Mao Yisheng Science and Technology Award, etc. From 08/01/2023 to 12/31/2023, I was a visiting student at the Hong Kong University of Science and Technology.
 
 # Research Interest
 
