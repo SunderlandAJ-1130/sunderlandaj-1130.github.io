@@ -26,7 +26,7 @@ Education
 Academic Services
 =================
 
-Reviewer of ACM Computing Survey, IEEE Transactions on Intelligent Transportation Systems, Cities. Complex & Intelligent Systems, Journal of Advanced Transportation, Plos ONE, IET Networks, World Transport Convention (WTC), COTA CICTP.
+Reviewer of ACM Computing Surveys, IEEE Transactions on Intelligent Transportation Systems, Cities. Complex & Intelligent Systems, Journal of Advanced Transportation, Plos ONE, IET Networks, World Transport Convention (WTC), COTA CICTP.
 
 # Awards
 
