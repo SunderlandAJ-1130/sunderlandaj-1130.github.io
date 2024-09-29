@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Zeng / Master's student"
+title                    : "Jie ZENG / PhD student"
 title_separator          : "-"
-name                     : &name "Jie Zeng"
+name                     : &name "Jie ZENG"
 description              : &description "personal description"
 url                      : https://sunderlandaj-1130.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Zeng (曾 捷)"
+  name             : "Jie ZENG (曾 捷)"
   avatar           : "头像.jpg"
-  bio              : "Master's candidate in CSU (2021.09-)"
-  location         : "Changsha, China"
+  bio              : "PhD Student at HKUST (2021.09-)"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=F68NbdIAAAAJ"
-  email            : "zj991130@gmail.com"
+  email            : "jzengav@connect.ust.hk"
   researchgate     : "https://www.researchgate.net/profile/Jie-Zeng-13"
   uri              : 
   bitbucket        :
