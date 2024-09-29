@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Jie ZENG, and I am currently a third-year Master's student of Transportation Engineering at Central South University in China, advised by Prof. Jinjun Tang, where I also received my Bachelor's degree in 2021. During my study at CSU, I ranked 1/29 of my undergraduate class and won a list of awesome awards, including the National Scholarship, Mao Yisheng Science and Technology Award, etc. From 08/01/2023 to 12/31/2023, I was a visiting student at the Hong Kong University of Science and Technology. Starting from the 2024 Fall, I will become a PhD student in the Department of Civil and Environmental Engineering at the Hong Kong University of Science and Technology (Supervisor: Prof. Hai YANG).
+Hi, my name is Jie ZENG, and I am currently a first-year PhD student in the Department of Civil and Environmental Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. Hai YANG. From 2017 to 2024, I received my Master's and Bachelor's degrees in Traffic & Transportation Engineering from Central South University in Changsha, China (Supervisor: Prof. Jinjun TANG).
 
 # Research Interest
 
+* Advanced travel demand management
 * Deep learning applications in transportation systems
 * Spatiotemporal data mining and prediction
-* Traffic accident detection and prediction
 
 Education
 =========
@@ -22,11 +22,12 @@ Education
 * Visiting Student in Business School, the Chinese University of Hong Kong (2019.07)
 * M.S. in Traffic and Transportation Engineering, Central South University (2021.09-)
 * PG Visiting Student at the Department of Civil and Environmental Engineering, the Hong Kong University of Science and Technology (2023.08-2023.12)
+* PhD student at the Department of Civil and Environmental Engineering, the Hong Kong University of Science and Technology (2024.09-now)
 
 Academic Services
 =================
 
-Reviewer of ACM Computing Surveys, IEEE Transactions on Intelligent Transportation Systems, Cities. Complex & Intelligent Systems, Journal of Advanced Transportation, The Journal of Supercomputing, Plos ONE, IEEE Access, IET Networks, World Transport Convention (WTC), COTA CICTP.
+Reviewer of ACM Computing Surveys, IEEE Transactions on Intelligent Transportation Systems, Cities, Complex & Intelligent Systems, Journal of Advanced Transportation, The Journal of Supercomputing, Plos ONE, IEEE Access, IET Networks, World Transport Convention (WTC), COTA CICTP.
 
 # Awards
 
