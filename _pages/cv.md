@@ -15,7 +15,7 @@ Education
 * Visiting Student in Business School, The Chinese University of Hong Kong (2019.07)
 * M.S. in Traffic and Transportation Engineering, Central South University (2021.09-2024.06)
 * PG Visiting Student at the Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology (2023.08-2023.12)
-* PhD student in Civil Engineering, The Hong Kong University of Science and Technology (2024.09-)
+* PhD Student in Civil Engineering, The Hong Kong University of Science and Technology (2024.09-)
 
 Skills
 ======
