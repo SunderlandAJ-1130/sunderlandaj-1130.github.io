@@ -12,4 +12,4 @@ Trajectory prediction for individual vehicles has emerged as a vital component i
 
 [Download paper here](http://SunderlandAJ-1130.github.io/files/zeng2022modeling.pdf)
 
-Recommended citation:Zeng, J., Xiao, C., Tang, J. & Hu, C. (2024).Inquiring the Next Location and Travel Time: A Deep Learning Based Temporal Point Process for Vehicle Trajectory Prediction. IEEE Internet of Things.
+Recommended citation:Zeng, J., Xiao, C., Tang, J. & Hu, C. (2025).Inquiring the Next Location and Travel Time: A Deep Learning Based Temporal Point Process for Vehicle Trajectory Prediction. IEEE Internet of Things.
