@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie ZENG / PhD student"
+title                    : "Jie Zeng / PhD student"
 title_separator          : "-"
-name                     : &name "Jie ZENG"
+name                     : &name "Jie Zeng"
 description              : &description "personal description"
 url                      : https://sunderlandaj-1130.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie ZENG (曾 捷)"
-  avatar           : "头像.jpg"
+  name             : "Jie Zeng (曾 捷)"
+  avatar           : "bio-photo-caspt.jpg"
   bio              : "PhD Student at HKUST (2024.09-)"
   location         : "Hong Kong SAR, China"
   employer         :
