@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, my name is Jie ZENG, and I am currently a first-year PhD student in the Department of Civil and Environmental Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. Hai YANG. From 2017 to 2024, I received my Master's and Bachelor's degrees in Traffic & Transportation Engineering from Central South University in Changsha, China (Supervisor: Prof. Jinjun TANG).
+Hi, my name is Jie Zeng, and I am currently a first-year PhD student in the Department of Civil and Environmental Engineering at the Hong Kong University of Science and Technology, under the supervision of Prof. Hai Yang. From 2017 to 2024, I received my Master's and Bachelor's degrees in Traffic & Transportation Engineering from Central South University in Changsha, China (Supervisor: Prof. Jinjun Tang).
 
 # Research Interest
 
@@ -27,7 +27,7 @@ Education
 Academic Services
 =================
 
-Reviewer of ACM Computing Surveys, IEEE Transactions on Intelligent Transportation Systems, Cities, Complex & Intelligent Systems, Journal of Advanced Transportation, The Journal of Supercomputing, Plos ONE, IEEE Access, IET Networks, World Transport Convention (WTC), COTA CICTP.
+Reviewer of ACM Computing Surveys, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, Cities, Complex & Intelligent Systems, Journal of Advanced Transportation, The Journal of Supercomputing, Plos ONE, IEEE Access, IET Networks, World Transport Convention (WTC), COTA CICTP.
 
 # Awards
 
